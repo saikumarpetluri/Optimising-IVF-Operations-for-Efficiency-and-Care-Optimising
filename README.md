@@ -41,15 +41,21 @@ Maximise patient satisfaction and clinic throughput by improving:
 ## 📁 Repository Structure
 
 ivf-operations-optimization/
-│
+
 ├── data/ # Raw and processed data
+
 ├── notebooks/ # Exploratory Data Analysis & modelling notebooks
-├── models/ # Predictive & optimization model code
-├── dashboards/ # Dashboard files (Power BI, Tableau, Streamlit etc)
+
+├── dashboards/ # Dashboard files (Power BI)
+
 ├── assets/ # Architecture diagrams, images
+
 ├── PowerBi_Dashboard_images/ # Visuals for dashboards
+
 ├── Project_Arc.docx # Architecture document
+
 ├── project_Presentation.pdf # Final presentation
+
 └── README.md # This file
 
 ---

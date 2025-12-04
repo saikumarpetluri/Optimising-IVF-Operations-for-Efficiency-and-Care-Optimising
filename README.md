@@ -1,4 +1,4 @@
-Optimizing IVF Operations for Efficiency and Care Optimizing
+# Optimizing IVF Operations for Efficiency and Care Optimizing
 
 This project focuses on analyzing and optimizing operational workflows in IVF (In-Vitro Fertilization) clinics using data analytics, performance metrics, and Power BI dashboards. It includes Python analysis, project architecture documentation, dashboards, and a final presentation.
 

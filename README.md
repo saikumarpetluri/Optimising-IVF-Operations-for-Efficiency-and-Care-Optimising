@@ -2,33 +2,33 @@
 
 This project focuses on analyzing and optimizing operational workflows in IVF (In-Vitro Fertilization) clinics using data analytics, performance metrics, and Power BI dashboards. It includes Python analysis, project architecture documentation, dashboards, and a final presentation.
 
-Project Overview  
+### Project Overview  
 IVF processes involve multiple time-sensitive steps such as patient consultations, lab operations, sample handling, and reporting. This project uses data-driven insights to identify workflow inefficiencies and recommend operational improvements.
 
-Business Problem: IVF clinics face inefficiencies in appointment scheduling, staff allocation, and
+### Business Problem: IVF clinics face inefficiencies in appointment scheduling, staff allocation, and
 equipment usage. Patients experience long wait times, lowering satisfaction and clinic
 throughput. Staff workloads are imbalanced, causing burnout or idle time. These inefficiencies
 drive up operational costs and reduce overall efficiency.
 
-High Level Solution: Use predictive analytics and optimization models on historical clinic data to
+### High Level Solution: Use predictive analytics and optimization models on historical clinic data to
 improve scheduling and resource allocation. Provide real-time dashboards and reports for
 continuous monitoring and refinement.
 
-Business Objective:
+### Business Objective:
 
 Maximize patient satisfaction and clinic throughput by improving appointment scheduling, staff
 allocation, and equipment utilization.
 
-Business Constraint:
+### Business Constraint:
 
 Minimize wait times, staff overload/idle time, and operational costs.
 
-Success criteria:
+### Success criteria:
 
-Business Success Criteria:
+#### Business Success Criteria:
 Improve patient satisfaction and clinic throughput by optimizing staff and equipment utilization.
 
-Economic Success Criteria:
+#### Economic Success Criteria:
 
 Reduce operational costs and increase revenue through efficient resource allocation.
 
@@ -38,7 +38,7 @@ This repository contains:
 - Project Architecture Document  
 - Project Presentation Slides
 
-📁 Project Architecture  
+## 📁 Project Architecture  
 This project follows a clear analytical workflow:  
 - Data Source  
 - Operational dataset from IVF clinic processes  
@@ -53,7 +53,7 @@ This project follows a clear analytical workflow:
 - Recommendations  
   - Improvements to optimize IVF workflows and reduce delays  
 
-Motivation & Objectives  
+##  Motivation & Objectives  
 Optimizing IVF operations can help:  
 - Reduce patient waiting times  
 - Improve success rate and cycle flow  
@@ -61,9 +61,10 @@ Optimizing IVF operations can help:
 - Provide real-time operational insights  
 - Enhance patient experience  
 
-Main Objective: To analyze IVF operational data and derive insights that help streamline clinical processes.  
+### Main Objective: 
+To analyze IVF operational data and derive insights that help streamline clinical processes.  
 
-Data Description  
+### Data Description  
 Dataset includes:  
 - Timing details for IVF procedures  
 - Cycle step durations  
@@ -71,13 +72,13 @@ Dataset includes:
 - Scheduling and timestamps  
 - Key operational KPIs  
 
-Data preprocessing steps:  
+## Data preprocessing steps:  
 - Removing duplicates & handling missing values  
 - Cleaning inconsistent formats  
 - Creating useful derived features  
 - Filtering noise/outliers  
 
-Methodology  
+### Methodology  
 1. Data Exploration  
    - Summary statistics  
    - Time-based variation analysis  
@@ -99,14 +100,14 @@ Methodology
    - Summary of findings  
    - Optimization recommendation framework  
 
-Results & Key Insights  
+### Results & Key Insights  
 - Identified major bottlenecks in IVF workflow  
 - Mapped cycle delays and waiting-time contributors  
 - Highlighted peak load timings for the lab  
 - Built dashboard for real-time decision making  
 - Suggested improvements for operational efficiency  
 
-▶️ How to Run / Use the Project  
+## ▶️ How to Run / Use the Project  
 
 1. Clone the Repository  
    `git clone https://github.com/saikumarpetluri/ivf-operations-optimization.git`  
@@ -118,7 +119,7 @@ Results & Key Insights
    `Project_Arc.docx` – Architecture & documentation  
    `project_Presentation.pdf` – Final slide deck  
 
-📦 Dependencies (Python Libraries)  
+### 📦 Dependencies (Python Libraries)  
 - Python 3.x  
 - pandas  
 - numpy  
@@ -127,5 +128,16 @@ Results & Key Insights
 - Power BI  
 - Power BI Desktop (latest version)  
 
-📁 Project Structure  
+### 📁 Project Structure  
+ivf-operations-optimization/
+│ ├── Python_code.ipynb # Main analysis notebook
 
+│ ├── Project_Arc.docx # Architecture document
+
+│ ├── project_Presentation.pdf # Final slide deck
+
+│ ├── PowerBi_dashbord.pbix # Power BI dashboard
+
+│ ├── powerBi_Dashbord_images/ # Dashboard screenshots
+
+│ └── README.md # Documentation

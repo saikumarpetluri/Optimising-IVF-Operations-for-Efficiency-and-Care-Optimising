@@ -5,6 +5,33 @@ This project focuses on analyzing and optimizing operational workflows in IVF (I
 Project Overview  
 IVF processes involve multiple time-sensitive steps such as patient consultations, lab operations, sample handling, and reporting. This project uses data-driven insights to identify workflow inefficiencies and recommend operational improvements.
 
+Business Problem: IVF clinics face inefficiencies in appointment scheduling, staff allocation, and
+equipment usage. Patients experience long wait times, lowering satisfaction and clinic
+throughput. Staff workloads are imbalanced, causing burnout or idle time. These inefficiencies
+drive up operational costs and reduce overall efficiency.
+
+High Level Solution: Use predictive analytics and optimization models on historical clinic data to
+improve scheduling and resource allocation. Provide real-time dashboards and reports for
+continuous monitoring and refinement.
+
+Business Objective:
+
+Maximize patient satisfaction and clinic throughput by improving appointment scheduling, staff
+allocation, and equipment utilization.
+
+Business Constraint:
+
+Minimize wait times, staff overload/idle time, and operational costs.
+
+Success criteria:
+
+Business Success Criteria:
+Improve patient satisfaction and clinic throughput by optimizing staff and equipment utilization.
+
+Economic Success Criteria:
+
+Reduce operational costs and increase revenue through efficient resource allocation.
+
 This repository contains:  
 - Python Jupyter Notebook  
 - Power BI Dashboard  
